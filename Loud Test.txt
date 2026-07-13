@@ -1,0 +1,24 @@
+# Set Base
+Device: Microphone HyperX QuadCast {23b7e938-6b83-446c-8963-a3e986dcb9d0}
+Filter: ON HSC Fc 4000 Hz Gain 2.4 dB Q 1.2
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBQcmVzZW5jZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMzMz89Clc+PQoXPwrXIz8="
+
+Preamp: 20 dB
+# Wider - only have 1 on at a time and always start a test off centered then wider counter from there
+Mono
+# VSTPlugin: Library Wider.dll ChunkData "rkfhPQAAgL8AAIA/AAAAAA=="
+Center
+# VSTPlugin: Library Wider.dll ChunkData "zcyMPgAAgL8AAIA/AAAAAA=="
+Above Head
+# VSTPlugin: Library Wider.dll ChunkData "H4WrPgAAgL8AAIA/AAAAAA=="
+Wide
+# VSTPlugin: Library Wider.dll ChunkData "rkfhPgAAgL8AAIA/AAAAAA=="
+Pans (listen to where the other person is and try to chase based off where in ear they are, dont start off a test panned and only have 1 on at a time)
+# Top Ear L/R
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUUAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAwNDk5OTk5MTUwNjMzODExOTUwNjgiIHN0ZXJlb1R5cGU9IjAiLz4A"
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDAzOTk5OTkzMjA1MDcwNDk1NjA1NSIgc3RlcmVvVHlwZT0iMCIvPgA="
+# Deep In Ear L/R
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDEyMDk5OTk5OTM0NDM0ODkwNzQ3IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTE5MDAwMDAyNzQxODEzNjU5NjciIHN0ZXJlb1R5cGU9IjAiLz4A"
+# In Head (if the person sounds stuck crazy in the right ear turn this on )
+# VSTPlugin: Library Panipulator.dll ChunkData "UGFyYW1ldGVycwAAAQ1QQVJBTQABAmlkAAERBUJhbmRwYXNzTGlua19JRAB2YWx1ZQABCQQAAAAAAADwPwBQQVJBTQABAmlkAAENBUJhbmRwYXNzX0lEAHZhbHVlAAEJBAAAAAAAAAAAAFBBUkFNAAECaWQAARwFSW5wdXRDb25maWd1cmF0aW9uUmFkaW9fSUQAdmFsdWUAAQkEAAAAAAAA8D8AUEFSQU0AAQJpZAABFgVNYXN0ZXJfTWl4X1NsaWRlcl9JRAB2YWx1ZQABCQQAAAAAAABZQABQQVJBTQABAmlkAAEJBU1vbm9fSUQAdmFsdWUAAQkEAAAAAAAAAAAAUEFSQU0AAQJpZAABGAVPdXRwdXRDb25maWd1cmF0aW9uX0lEAHZhbHVlAAEJBAAAAAAAAPA/AFBBUkFNAAECaWQAAQ8FT3V0cHV0R2Fpbl9JRAB2YWx1ZQABCQQAAAAAAAAAQABQQVJBTQABAmlkAAEWBVBsdWdpbl9FbmFibGVfQnRuX0lEAHZhbHVlAAEJBAAAAAAAAPA/AFBBUkFNAAECaWQAARMFUG9sYXJpdHlfTF9CdG5fSUQAdmFsdWUAAQkEAAAAAAAAAAAAUEFSQU0AAQJpZAABEwVQb2xhcml0eV9SX0J0bl9JRAB2YWx1ZQABCQQAAAAAAADwPwBQQVJBTQABAmlkAAENBVN3YXBfQnRuX0lEAHZhbHVlAAEJBAAAAAAAAAAAAGVkaXRvcgABAnNpemUteAABBQHuAgAAc2l6ZS15AAEFAUkBAAAAbGFzdHByZXNldAABAW5hbWUAAQIFAAA="

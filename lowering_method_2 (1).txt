@@ -1,0 +1,16 @@
+Preamp: -60 dB
+Copy: L=L+L+R+R R=L+R
+Copy: L=L+L+R+R R=L+R
+Copy: L=L+L+R+R R=L+R
+Copy: L=L+L+R+R R=L+R
+Copy: L=L+L+R+R R=L+R
+Copy: L=L+L+R+R R=L+R
+Copy: L=L+L+R+R R=L+R
+Channel: all
+Stage: pre-mix post-mix capture
+Stage: pre-mix post-mix capture
+Stage: pre-mix post-mix capture
+Stage: pre-mix post-mix capture
+Stage: pre-mix post-mix capture
+Delay: 1 ms
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPYoXD9xPQo/16MQP+F6FD8="

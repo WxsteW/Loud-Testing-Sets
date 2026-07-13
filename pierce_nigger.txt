@@ -1,0 +1,7 @@
+Device: Microphone Blue Snowball {cbb76270-c807-4fdd-afdb-657b78ef4f43}
+VSTPlugin: Library C:\overtalk.dll Channels 0 Enable 1 Level 1 Mode 0 Characte 0.32 Amount 1 Drive 1 Oversamp 0
+Preamp: 35 dB
+Copy: L=L+R R=L+R RL=L
+Filter: ON PK Fc 121 Hz Gain 20 dB BW Oct 44.4444
+VSTPlugin: Library C:\basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAgD8="
+VSTPlugin: Library C:\basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAgD8="

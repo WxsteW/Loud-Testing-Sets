@@ -1,0 +1,5 @@
+Preamp: 30 dB
+# Words To Say Long Chinaaaa Long Flameeeee Long Revvvvv
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAApXLdAAQAAABSphcE+R0MJSq8EhwA="
+# VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAAAABBAQAAAAAAAAA+R0MJSq8EhwA="
+VSTPlugin: Library GGain.dll Gain 0.708333

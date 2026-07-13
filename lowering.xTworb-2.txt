@@ -1,0 +1,4 @@
+VSTPlugin: Library "Wider.dll" ChunkData "wQkcPg=="
+Filter: ON PK Fc 121 Hz Gain 7.2 dB BW Oct 33.3333
+Filter: ON HSC 0.349 dB Fc 2133.19 Hz Gain 4.2 dB
+VSTPlugin: Library StereoChannel_x64.dll "Phase Meter Detection" 0 "Left/Right Balance" 0.5 "M/S Balance Law" 0.857143 "Volume Level" 0.5 "Mid/Side Balance" 0.5 "Invert Left" 0 "Mute Mid" 0 "L/R Balance Law" 0.857143 "Mute Left" 0 "Mute Side" 0 "Mute Right" 0 "Swap L/R" 0 "Invert Right" 0 "Center X-Over" 0 "VU Operating Mode" 0 "M/S Balance Compensation" 1 "L/R Balance Compensation" 1 "VU Nominal Level" 0.333333 "Yellow LED Level" 0.85 "Red LED Level" 0.9925 "Yellow LED Hold" 0.09991 "Red LED Hold" 0.49995 "Phase Correlation Timing" 0.24985 "Settings Panel" 0 "VU Meter Mode" 0 "Mini Mode" 0 "Show VU Peak Hold Needles" 0

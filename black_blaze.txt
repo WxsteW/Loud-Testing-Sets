@@ -1,0 +1,5 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAgD8="
+VSTPlugin: Library StereoChannel_x64.dll "Volume Level" 0.557692 "Mute Side" 0 "Mid/Side Balance" 0.572368 "Mute Left" 0 "Left/Right Balance" 0.467105 "Invert Left" 0 "Mute Mid" 0 "Mute Right" 0 "Invert Right" 0 "Swap L/R" 0 "Center X-Over" 0 "VU Operating Mode" 0 "L/R Balance Law" 0.857143 "M/S Balance Law" 0.857143 "M/S Balance Compensation" 1 "L/R Balance Compensation" 1 "VU Nominal Level" 1 "Settings Panel" 0 "Yellow LED Level" 0.85 "Red LED Level" 0.9925 "Yellow LED Hold" 0.09991 "Red LED Hold" 0.49995 "Phase Correlation Timing" 0.24985 "VU Meter Mode" 0 "Mini Mode" 0 "Show VU Peak Hold Needles" 0 "Phase Meter Detection" 0
+VSTPlugin: Library Wider.dll ChunkData "ZmZmPg=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPq5HIT8="
+Preamp: 40 dB

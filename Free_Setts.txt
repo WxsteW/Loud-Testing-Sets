@@ -1,0 +1,19 @@
+Filter: ON PK Fc 10000 Hz Gain 5 dB BW Oct 33.3333
+# 
+Preamp: 20 dB
+# 
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAClcTz8+Ctc+9ijcPpqZGT8="
+33, 52, 67
+VSTPlugin: Library WiderV2.dll ChunkData "iYiIPgAAgL8AAIA/AAAAAA=="
+Top Right
+# VSTPlugin: Library GFM_psypan.dll width 0.661654 pan 0.553667 x-itd 1
+Top Left
+# VSTPlugin: Library GFM_psypan.dll width 0.661654 pan 0.428443 x-itd 1
+Right Mono
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDA1MDAwMDEwMTMyNzg5NjExODE2NCIgc3RlcmVvVHlwZT0iMyIvPgA="
+Left Mono
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAxMTk5OTk5ODI0MTY2Mjk3OTEyNiIgc3RlcmVvVHlwZT0iMyIvPgA="
+Deep Right
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDQwMDAwMDA2NTU2NTEwOTI1MjkzIiBzdGVyZW9UeXBlPSIwIi8+AA=="
+Deep Left
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDA0MDk5OTk5NTU0NDU1MjgwMzA0IiBzdGVyZW9UeXBlPSIwIi8+AA=="

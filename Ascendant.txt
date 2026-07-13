@@ -1,0 +1,19 @@
+# microphone initialization
+Stage: pre-mix post-mix capture
+Device: Microphone HyperX QuadCast {09ddfff8-69af-482b-92d4-af625af7e13f}
+Channel: ALL
+# Low-end shaping for warmth without boom
+Filter: ON PK Fc 85 Hz     Gain 1.5 dB  Q 0.80    # Low-end body
+Filter: ON PK Fc 140 Hz    Gain -2.5 dB Q 1.00    # Cuts mud, tightens bass
+
+# Mids cleaned for a smoother tone
+Filter: ON PK Fc 380 Hz    Gain -2.0 dB Q 1.40    # Cuts boxiness
+Filter: ON PK Fc 950 Hz    Gain -1.0 dB Q 1.00    # Smooths some midrange congestion
+
+# Upper mids tweaked to preserve clarity without harshness
+Filter: ON PK Fc 2600 Hz   Gain 1.0 dB  Q 1.10    # Adds presence (good for speech intelligibility)
+Filter: ON PK Fc 4500 Hz   Gain 1.5 dB  Q 0.90    # Sweet spot for reverb body and clarity
+
+# Highs opened up for detail and reverb tail sparkle
+Filter: ON PK Fc 9000 Hz   Gain 2.5 dB  Q 1.00    # Shimmer, air, reverb tails
+Filter: ON PK Fc 12000 Hz  Gain 1.0 dB  Q 1.10    # Final sparkle

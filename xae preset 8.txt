@@ -1,0 +1,8 @@
+
+Device: all
+Channel: all
+Filter: ON PK Fc 150 Hz Gain -1.7 dB Q 1
+Filter: ON PK Fc 700 Hz Gain 2.3 dB Q 0.5
+Filter: ON PK Fc 1290.1 Hz Gain 0.7 dB Q 1.4
+Filter: ON HSC Fc 4000 Hz Gain 3.5 dB Q 0.7
+Filter: ON HSC Fc 22050 Hz Gain 3.4 dB Q 0.2

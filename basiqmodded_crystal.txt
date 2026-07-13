@@ -1,0 +1,4 @@
+# VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+modded basiq is the bottom one
+# VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgB0cmFja2hhd2tzIG1vZGRlZCBjcnlzdGEAAAAAAAAAABSuRz8AACA/NDOzPmZmJj8="
+# VSTPlugin: Library WiderV2.dll ChunkData "AQTzQQAAgL8AAIA/AAAAAA=="

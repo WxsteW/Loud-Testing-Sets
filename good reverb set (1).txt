@@ -1,0 +1,12 @@
+Filter: ON LS Fc 97.28 Hz Gain 2.5 dB
+Filter: ON HS Fc 200.92 Hz Gain 4.8 dB
+Filter: ON HS Fc 2250 Hz Gain 5.25 dB
+Preamp: 25 dB
+Slowly Increase Wider To Where They Are To Overtalk Them More
+VSTPlugin: Library Wider.dll ChunkData "bI1WPg=="
+Reverb
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAD2KLw/AQAAAFIXNME+R0MJSq8EhwA="
+# Reverb above head
+# Include: reverb above head.txt
+# 
+VSTPlugin: Library EffectorEffector_x64.dll

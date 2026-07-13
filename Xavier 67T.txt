@@ -1,0 +1,5 @@
+Filter: ON HSC Fc 1000 Hz Gain -2 dB Q 0.5
+Preamp: -3 dB
+VSTPlugin: Library "MonoChannel x64.dll" "Volume Level" 1 Mute 0 Invert 0 "Low Shelf Gain" 0.375 "Mid Peak Gain" 0.365385 "Settings Panel" 0 "VU Nominal Level" 0.333333 "High Shelf Gain" 0.711538 "Warning LED Level" 0.85 "Peak LED Level" 0.9925 "Warning LED Hold" 0.09991 "Peak LED Hold" 0.49995 "VU Meter Mode" 0 "HP Filter" 0 "VU Peak Needle" 0 "Mini View" 0 "EQ Mode" 1
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/rURg/AAAAPwAAAD8="
+VSTPlugin: Library Wider.dll ChunkData "XIkVPgAAgL8AAIA/AAAAAA=="

@@ -1,0 +1,8 @@
+Delay: -205.12 ms
+Stage: post-mix capture
+Channel: L R LR RR C
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbAAAAAAAAAAAAAAAAAAAAAAAAAAAAB+FKz8K1yM/AAAAPwAAAD8="
+Copy: L=L+1.0dB*R R=1.0dB*L+R
+Filter: ON LSC 0.3952 dB Fc 438.56 Hz Gain 4.6 dB
+Stage: post-mix capture
+Stage: post-mix capture

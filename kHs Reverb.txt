@@ -1,0 +1,3 @@
+
+# Preamp: 11.8 dB
+VSTPlugin: Library "kHs Reverb.dll"

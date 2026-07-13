@@ -1,0 +1,7 @@
+jakob
+Include: +.txt
+adjust db as needed, some mics need more db, some less
+Preamp: 22 dB
+VSTPlugin: Library Proximity_x64.dll Mode 1 DistGain 0.870432 RefDist 0.025 FineTune 0.5 Delay 0 Gain 1 Air 1 Width 0.5 Proxim. 1 Reflect. 0.5 ModShape 0 ModSpeed 0.091 ModDepth 0.009
+
+Include: Emperors Countering.txt

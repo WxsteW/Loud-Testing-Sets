@@ -1,0 +1,10 @@
+
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AGFsAIk9PT1cXFxeXl48PDx+fn6uAAAAAAAAAD8AAAA/AAAAPzMzEz8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBOaWNlIFZvY2FsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgD8AAAAAAACAPwAAAD8="
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0 Output 0.5 Bypass 1
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0 Output 0.5 Bypass 1
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0 Output 0.5 Bypass 1
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0 Output 0.5 Bypass 1
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0 Output 0.5 Bypass 1
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0 Output 0.5 Bypass 1
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0 Output 0.61215 Bypass 1

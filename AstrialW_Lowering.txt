@@ -1,0 +1,6 @@
+AstrialW ! Astrial#0001
+Device: Microphone Realtek(R) Audio {08dc6fbe-32f4-4e57-b8ea-0b4b101a709a}
+Copy: L=3.0*L+0*R R=0*L+3.0*R
+VSTPlugin: Library Wider.dll ChunkData "BmgAPw=="
+Preamp: 15 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCFqz7NzCw/wvUoP4XrET8="

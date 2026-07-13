@@ -1,0 +1,49 @@
+# Preamp: 16 dB
+Preamp: 10 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBPcGVuIE1peAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMLD97FK4+rkfhPh+FKz8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBLaWNrIEl0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsULj+uRwE/NDMzPtejED8="
+VSTPlugin: Library Wider.dll ChunkData "vciLPg=="
+in-head
+# VSTPlugin: Library Panipulator.dll ChunkData "UGFyYW1ldGVycwAAAQ1QQVJBTQABAmlkAAERBUJhbmRwYXNzTGlua19JRAB2YWx1ZQABCQQAAAAAAAAAAABQQVJBTQABAmlkAAENBUJhbmRwYXNzX0lEAHZhbHVlAAEJBAAAAAAAAAAAAFBBUkFNAAECaWQAARwFSW5wdXRDb25maWd1cmF0aW9uUmFkaW9fSUQAdmFsdWUAAQkEAAAAAAAA8D8AUEFSQU0AAQJpZAABFgVNYXN0ZXJfTWl4X1NsaWRlcl9JRAB2YWx1ZQABCQQAAAAAAABZQABQQVJBTQABAmlkAAEJBU1vbm9fSUQAdmFsdWUAAQkEAAAAAAAAAAAAUEFSQU0AAQJpZAABGAVPdXRwdXRDb25maWd1cmF0aW9uX0lEAHZhbHVlAAEJBAAAAAAAAPA/AFBBUkFNAAECaWQAAQ8FT3V0cHV0R2Fpbl9JRAB2YWx1ZQABCQQAAAAAAAAAQABQQVJBTQABAmlkAAEWBVBsdWdpbl9FbmFibGVfQnRuX0lEAHZhbHVlAAEJBAAAAAAAAPA/AFBBUkFNAAECaWQAARMFUG9sYXJpdHlfTF9CdG5fSUQAdmFsdWUAAQkEAAAAAAAAAAAAUEFSQU0AAQJpZAABEwVQb2xhcml0eV9SX0J0bl9JRAB2YWx1ZQABCQQAAAAAAADwPwBQQVJBTQABAmlkAAENBVN3YXBfQnRuX0lEAHZhbHVlAAEJBAAAAAAAAPA/AGVkaXRvcgABAnNpemUteAABBQHuAgAAc2l6ZS15AAEFAUkBAAAAbGFzdHByZXNldAABAW5hbWUAAQIFAAA="
+------------------------ [R/L PAN] ------------------------
+left v1
+# VSTPlugin: Library "GFM Psypan.dll" width 0.5 pan 0.388194 x-itd 0.5
+right v1
+# VSTPlugin: Library "GFM Psypan.dll" width 0.5 pan 0.602863 x-itd 0.5
+right v2
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDE0OTk5OTkzMTQ1NDY1ODUwODMiIHN0ZXJlb1R5cGU9IjAiLz4A"
+left v2
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAxMjk5OTk5NjU0MjkzMDYwMzAyNyIgc3RlcmVvVHlwZT0iMCIvPgA="
+------------------------ [CLOSE PAN] ------------------------
+close right v1
+# VSTPlugin: Library "GFM Psypan.dll" width 0.5 pan 0.535779 x-itd 1
+close left v1
+# VSTPlugin: Library "GFM Psypan.dll" width 0.5 pan 0.450806 x-itd 1
+close left v2
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAxMDAwMDAwMTYzOTEyNzczMTMyMyIgc3RlcmVvVHlwZT0iMCIvPgA="
+close right v2
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDEwMDAwMDAxNjM5MTI3NzMxMzIzIiBzdGVyZW9UeXBlPSIwIi8+AA=="
+------------------------ [DEEP PAN] ------------------------
+deep right v1
+# VSTPlugin: Library "GFM Psypan.dll" width 0.5 pan 0.808587 x-itd 0.5
+deep left v1
+# VSTPlugin: Library "GFM Psypan.dll" width 0.5 pan 0.182469 x-itd 0.5
+deep right v2
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDM1OTk5OTk0NzI0OTg4OTM3Mzc4IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+deep left v2
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAzNTAwMDAwNTczNjk0NzA1OTYzMSIgc3RlcmVvVHlwZT0iMCIvPgA="
+deep right v3
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDk5OTk5OTk3NzY0ODI1ODIwOTIzIiBzdGVyZW9UeXBlPSIwIi8+AA=="
+deep left v3
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDEwNDk5OTk5ODU4NDM4OTY4NjU4IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+------------------------ [ REVERB ] ------------------------
+v1 ( good reverb )
+# VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAABSuL4/AQAAAOu6g8E+R0MJSq8EhwA="
+v2 ( dg reverb ) 
+# VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAABI4To/AQAAAEXRHsE+R0MJSq8EhwA="
+v3 ( troll ) 
+# VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAApXD9AAQAAAD9PcsE+R0MJSq8EhwA="
+filters
+Filter: ON PK Fc 750 Hz Gain 0.6 dB Q 0.7
+Filter: ON PK Fc 1500 Hz Gain 2 dB Q 0.9
+Filter: ON HSC Fc 2500 Hz Gain 3 dB Q 0.8

@@ -1,0 +1,4 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPuF6FD8="
+VSTPlugin: Library BL-Precedence.dll DelayNorm 0.635417
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1

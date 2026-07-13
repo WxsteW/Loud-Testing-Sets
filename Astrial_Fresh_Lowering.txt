@@ -1,0 +1,4 @@
+Preamp: 15.4 dB
+Copy: L=L+R R=L+R
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDMyMDAwMDAxNTE5OTE4NDQxNzcyIiBzdGVyZW9UeXBlPSIwIi8+AA=="
+VSTPlugin: Library GGain.dll Gain 0.7025

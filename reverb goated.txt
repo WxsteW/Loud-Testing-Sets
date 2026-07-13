@@ -1,0 +1,3 @@
+Preamp: 20 dB
+VSTPlugin: Library GGain.dll Gain 0.7925
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAB7FMZAAQAAADEfHMA+R0MJSq8EhwA="

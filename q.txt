@@ -1,0 +1,10 @@
+Device: all
+Channel: all
+VSTPlugin: Library basiq.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAK5HYT98FO4+AAAAPwAAAD8="
+Filter: ON PK Fc 165 Hz Gain 1.5 dB Q 1.41
+Filter: ON PK Fc 257 Hz Gain -2 dB Q 1.41
+Filter: ON PK Fc 590 Hz Gain -0.8 dB Q 1.41
+Filter: ON PK Fc 950.67 Hz Gain -0.8 dB Q 1.41
+Filter: ON HSC Fc 577 Hz Gain 4 dB Q 0.9
+Filter: ON HSC Fc 2800 Hz Gain 4 dB Q 0.7
+Filter: ON PK Fc 8000 Hz Gain 2.5 dB Q 0.5

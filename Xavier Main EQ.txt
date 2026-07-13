@@ -1,0 +1,44 @@
+Device: all
+Copy: L=0.98*L+0.02*R
+Copy: R=0.96*R
+Copy: RL=0.98*RL+0.02*RR
+Copy: RR=0.96*RR
+Copy: SL=0.98*SL+0.02*SR
+Copy: SR=0.96*SR
+Copy: L=1.00*L+0.00*RL
+Copy: R=1.00*R+0.00*RR
+Copy: RL=1.00*RL
+Copy: RR=1.00*RR
+Copy: L2=0.500*L+0.500*R
+Copy: RL2=0.500*RL+0.500*RR
+Copy: SL2=0.500*SL+0.500*SR
+Copy: R2=0.500*R+0.500*L
+Copy: RR2=0.500*RR+0.500*RL
+Copy: SR2=0.500*SR+0.500*SL
+Copy: L=L2
+Copy: RL=RL2
+Copy: SL=SL2
+Copy: R=R2
+Copy: RR=RR2
+Copy: SR=SR2
+Channel: all
+Preamp: -5.15 dB
+Filter: ON HS Fc 2000 Hz Gain 8 dB
+Channel: all
+Filter 1: ON PK Fc 10 Hz Gain 2 dB Q 0.2
+Filter 2: ON PK Fc 21 Hz Gain -1 dB Q 0.2
+Filter 3: ON PK Fc 42 Hz Gain 2 dB Q 0.2
+Filter: ON PK Fc 83 Hz Gain -1 dB Q 0.2
+Filter 5: ON PK Fc 166 Hz Gain 2 dB Q 0.2
+Filter: ON PK Fc 333 Hz Gain -1.2 dB Q 0.2
+Filter 7: ON PK Fc 577 Hz Gain 2 dB Q 0.2
+Filter: ON PK Fc 1000 Hz Gain 3.2 dB Q 0.2
+Filter 9: ON PK Fc 2000 Hz Gain 2 dB Q 0.2
+Filter: ON PK Fc 4000 Hz Gain -2 dB Q 0.2
+Filter 11: ON PK Fc 8000 Hz Gain 2 dB Q 0.2
+Filter 12: ON PK Fc 16000 Hz Gain 1 dB Q 0.2
+Filter 13: ON PK Fc 20000 Hz Gain 2 dB Q 0.2
+Filter: ON PK Fc 7500 Hz Gain -3 dB Q 1.8
+VSTPlugin: Library MonoChannel_x64.dll "Mid Peak Gain" 0.37 "Volume Level" 0.63 "Low Shelf Gain" 0.39 Mute 0 Invert 0 "Settings Panel" 0 "VU Nominal Level" 0.333333 "High Shelf Gain" 0.43 "Warning LED Level" 0.85 "Peak LED Level" 0.9925 "Warning LED Hold" 0.09991 "Peak LED Hold" 0.49995 "VU Meter Mode" 1 "HP Filter" 0.09 "VU Peak Needle" 0 "Mini View" 0 "EQ Mode" 0
+# flat
+# VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AE9XUztDOlxXSU5ET1dTXFN5c3RlAAAAANej8D6OwrU+AAAAPzMzEz8="

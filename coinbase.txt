@@ -1,0 +1,10 @@
+Stage: post-mix capture
+Include: eq.txt
+Preamp: 4.3 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBJbml0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPYoHD8+Cpc+MzMTP2ZmBj8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBJbml0AK+uqegAAOi4MAAAoEi1HjkCAAAgjVAGAAAAANejED8pXA8/hesxP5DC9T4="
+# 
+Include: cb reverb.txt
+# 
+VSTPlugin: Library Wider.dll ChunkData "pk96Pg=="
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDA3Mzk5OTk5NTM2NTczODg2ODcxMyIgc3RlcmVvVHlwZT0iMCIvPgA="

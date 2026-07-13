@@ -1,0 +1,3 @@
+Copy: C=C+2 2=C+2
+VSTPlugin: Library Wider.dll
+Preamp: 15 dB

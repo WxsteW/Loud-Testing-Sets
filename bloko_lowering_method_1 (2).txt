@@ -1,0 +1,4 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAABI/v7+AAD+/v4A/gAASP7+/gD+AAAAAD4KVz8fhSs/w/WoPmZmBj8="
+VSTPlugin: Library Wider.dll ChunkData "kPCIPg=="
+Filter: ON HS 12 dB Fc 20000 Hz Gain 10 dB
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDA4MDAwMDA1MDM2NTkyNDgzNTIwNSIgc3RlcmVvVHlwZT0iMCIvPgA="

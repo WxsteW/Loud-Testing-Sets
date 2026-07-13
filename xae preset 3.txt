@@ -1,0 +1,12 @@
+Device: all
+Channel: ALL
+Preamp: 20 dB
+
+Filter 4: ON PK Fc 140 Hz Gain -5 dB Q 0.7
+Filter 5: ON PK Fc 272.33 Hz Gain -2 dB Q 0.7
+Filter 6: ON PK Fc 304.3 Hz Gain -1 dB Q 0.7
+Filter 7: ON PK Fc 661.92 Hz Gain -2 dB Q 0.7
+Filter 8: ON PK Fc 730.05 Hz Gain -2 dB Q 0.7
+Filter: ON HSC Fc 4000 Hz Gain 4 dB Q 0.7
+Filter: ON PK Fc 10000 Hz Gain 1 dB Q 0.7
+Filter: ON HSC Fc 14000 Hz Gain 2.5 dB Q 0.7

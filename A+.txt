@@ -1,0 +1,11 @@
+
+Preamp: 25 dB
+Filter: ON HP Fc 50 Hz
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPj4KVz8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBQcmVzZW5jZQDGt6fOIf9ITTdmpqHFTGTUbwyxAAAAADMzMz89Clc+PQoXPwAAAD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBJbml0AAAo/gAAX/4AAI/+AABZ/gAAEf4AAAP+AAAAAOtRGD/XozA/mpmZPgAAgD8="
+i dont even use wider this is honestly a choice, since im giving you my pan you dont need it. But use wider when you don't use the pan 
+# VSTPlugin: Library Wider.dll ChunkData "zcxMPg=="
+# Above head
+# VSTPlugin: Library Wider.dll ChunkData "KYqiPg=="
+# Include: left.txt

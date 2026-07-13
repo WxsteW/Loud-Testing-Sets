@@ -1,0 +1,8 @@
+# Preamp: 20 dB
+# VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+# VSTPlugin: Library Wider.dll ChunkData "b+iGPg=="
+# Pans
+# Right
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDE4MDAwMDI1MzAyMTcxNzA3MTUzIiBzdGVyZW9UeXBlPSIwIi8+AA=="
+# Left
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAxNDk5OTk5MzE0NTQ2NTg1MDgzIiBzdGVyZW9UeXBlPSIwIi8+AA=="

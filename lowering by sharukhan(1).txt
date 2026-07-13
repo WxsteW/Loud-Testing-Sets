@@ -1,0 +1,6 @@
+Copy: L=L+R R=L+R
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgD8AAAAAAACAPwAAgD8="
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDE4OTk5OTk5Mzg5MDUyMzkxMDUyIiBzdGVyZW9UeXBlPSIwIi8+AA=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBHdWl0YXIgRmFjZQAAAAAAAAAAAAAAAAAAAAAAAAAAAEjhOj8fhSs/pHAdPwAAAD8="
+LoudnessCorrection: State 1 ReferenceLevel 80 ReferenceOffset 99 Attenuation 1.0
+LoudnessCorrection: State 1 ReferenceLevel 80 ReferenceOffset 99 Attenuation 1.0

@@ -1,0 +1,10 @@
+Preamp: 25 dB
+# 10.6L inhead
+# VSTPlugin: Library quickhaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDEwNTk5OTk5Njg4NTY1NzMxMDQ5IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+# 50% Stereo
+# VSTPlugin: Library wider.dll ChunkData "2Y99Pg=="
+# 75% Pierce
+# VSTPlugin: Library wider.dll ChunkData "AADAPg=="
+# clear
+VSTPlugin: Library basiq.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPtejUD8="
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAADNzFxAAQAAAHXnRcE+R0MJSq8EhwA="

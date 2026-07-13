@@ -1,0 +1,3 @@
+Copy: L=L+R R=L+R
+Preamp: 10.8 dB
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTg5OTk5OTkzODkwNTIzOTEwNTIiIHN0ZXJlb1R5cGU9IjAiLz4A"

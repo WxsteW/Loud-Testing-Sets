@@ -1,0 +1,9 @@
+Device: Microphone Razer Seiren Mini {bfbe6c62-06e5-4cad-87bd-329fef642e12}
+# Copy: L=L+R R=L+R
+Preamp: -6 dB
+Filter: ON PK Fc 50 Hz Gain -3 dB Q 10
+Filter: ON PK Fc 100 Hz Gain 1 dB BW Oct 0.0167
+# Copy: L=L+R R=L+R
+Preamp: -3.1 dB
+Filter: ON LS Fc 300 Hz Gain 5 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="

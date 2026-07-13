@@ -1,0 +1,6 @@
+
+Preamp: 35 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAJoUtdBBfQrAHFLFRTQYEECHwcc5AAAAAJqZWT8fhSs/9iicPh+FCz8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBJbml0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHA9Sj8AAAA/AAAAPwAAAD8="
+VSTPlugin: Library Wider.dll ChunkData "oyiKPg=="
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAAAEA/AQAAAAEAcME+R0MJSq8EhwA="

@@ -1,0 +1,6 @@
+VSTPlugin: Library BL_LoFi.dll InGain 0.5 Depth 0.934028 OutGain 0.5
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBQcmVzZW5jZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMzMz89Clc+PQoXPwAAAD8="
+Filter: ON LSC Fc 31 Hz Gain -1.4 dB Q 1.91
+Filter: ON HSC Fc 325 Hz Gain 3 dB Q 1.11
+Filter: ON HSC Fc 2500 Hz Gain 1.5 dB Q 1.9
+Filter: ON HSC Fc 9600 Hz Gain 2.6 dB Q 1.41

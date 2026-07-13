@@ -1,0 +1,13 @@
+Preamp: 6.6 dB
+VSTPlugin: Library IVGI2.dll ChunkData "VkMyIcsAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8S2xhbmdoZWxtSVZHSTIgVHJpbT0iMC41IiBEcml2ZT0iMC4wIiBPdXRwdXQ9IjAuNjAwMDAwMDIzODQxODU3OSIgQXN5bW1ldHJ5PSIxLjAiIEZyZXFSZXNwb25zZT0iMS4wIiBDcm9zc3RhbGtMZXZlbD0iMC41IiBWVW1vZGU9IjAuMCIgUmVsYXhlZD0iMC4wIiBCeXBhc3M9IjAuMCIvPgA="
+Filter: ON PK Fc 180 Hz Gain -1 dB Q 1.41
+Filter: ON PK Fc 288.24 Hz Gain -1.5 dB Q 1.41
+Filter: ON PK Fc 225.53 Hz Gain -1.5 dB Q 1.41
+Filter: ON PK Fc 371.41 Hz Gain -1.5 dB Q 1.41
+Filter 7: ON PK Fc 532.27 Hz Gain -1.5 dB Q 1.64
+Filter 8: ON PK Fc 827.79 Hz Gain -2 dB Q 1.41
+Filter 9: ON PK Fc 455 Hz Gain -2.5 dB Q 1.41
+Filter 10: ON HSC Fc 22050 Hz Gain 5 dB Q 0.7
+Filter 12: ON HSC 1.41 dB Fc 16000 Hz Gain 2 dB
+VSTPlugin: Library "MonoChannel x64.dll" "Volume Level" " 0.480769 Mute 0 Invert 0 "Low Shelf Gain" 0.403846 "Mid Peak Gain" 0.586538 "Settings Panel" 0 "VU Nominal Level" 0.333333 "High Shelf Gain" 0.5 "Warning LED Level" 0.85 "Peak LED Level" 0.9925 "Warning LED Hold" 0.09991 "Peak LED Hold" 0.49995 "VU Meter Mode" 0 "HP Filter" 0.125 "VU Peak Needle" 0 "Mini View" 0 "EQ Mode" 0
+VSTPlugin: Library "MonoChannel x64.dll" "Volume Level" " 0.858974 Mute 0 Invert 0 "Low Shelf Gain" 0.5 "Mid Peak Gain" 0.5 "Settings Panel" 0 "VU Nominal Level" 0.333333 "High Shelf Gain" 0.567308 "Warning LED Level" 0.85 "Peak LED Level" 0.9925 "Warning LED Hold" 0.09991 "Peak LED Hold" 0.49995 "VU Meter Mode" 0 "HP Filter" 0 "VU Peak Needle" 0 "Mini View" 0 "EQ Mode" 0

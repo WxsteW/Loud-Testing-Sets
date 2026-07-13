@@ -1,0 +1,22 @@
+VSTPlugin: Library BL_LoFi.dll InGain 0.5 Depth 1 OutGain 1
+VSTPlugin: Library Wider.dll ChunkData "XImVPg=="
+# LAST RESORT
+# Preamp: 30 dB
+
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPh+FCz8="
+VSTPlugin: Library DimensionExpander_x64.dll on/off 1 Size 0.07 Dry/Wet 0.5
+VSTPlugin: Library DeeWider.dll ChunkData "VkMyIXsAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TVlQTFVHSU5TRVRUSU5HUyBkYkVuYWJsZT0iMSIgZGJNYWluPSIwLjQ2ODAwMDAyNDU1NzExMzYiIGRiQ29sb3I9IjAuMCIgZGJEdW89IjAiLz4A"
+# 
+# Pan
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDk5OTk5OTk3NzY0ODI1ODIwOTIzIiBzdGVyZW9UeXBlPSIwIi8+AA=="
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDE0ODk5OTk5ODM0NTk3MTEwNzQ4IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+VSTPlugin: Library BL-Precedence.dll DelayNorm 1
+
+# 
+# VSTPlugin: Library GFM_Psypan.dll width 1 pan 0.817531 x-itd 1
+# 
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDA1MDAwMDEwMTMyNzg5NjExODE2NCIgc3RlcmVvVHlwZT0iMyIvPgA="
+# 
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUUAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAwMzk5OTk5MzIwNTA3MDQ5NTYwNTUiIHN0ZXJlb1R5cGU9IjMiLz4A"
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTg5OTk5OTkzODkwNTIzOTEwNTIiIHN0ZXJlb1R5cGU9IjAiLz4A"

@@ -1,0 +1,16 @@
+# 10 Wider
+# VSTPlugin: Library Wider.dll ChunkData "zcxMPQ=="
+# 44 Wider
+# VSTPlugin: Library Wider.dll ChunkData "rkdhPg=="
+# 67 Wider
+# VSTPlugin: Library Wider.dll ChunkData "H4WrPg=="
+# 75 Wider
+# VSTPlugin: Library Wider.dll ChunkData "AADAPg=="
+# 85 Wider
+# VSTPlugin: Library Wider.dll ChunkData "mpnZPg=="
+# 100 Wider
+# VSTPlugin: Library Wider.dll ChunkData "AAAAPw=="
+# 125 Wider
+# VSTPlugin: Library Wider.dll ChunkData "AAAgPw=="
+# 200 Wider
+# VSTPlugin: Library Wider.dll ChunkData "AACAPw=="

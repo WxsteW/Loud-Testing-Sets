@@ -1,0 +1,14 @@
+
+Stage: post-mix capture
+Preamp: 2.3 dB
+Filter: ON PK Fc 80 Hz Gain -2 dB Q 0.7
+Filter: ON PK Fc 120 Hz Gain -1.5 dB Q 1.0
+Filter: ON PK Fc 160 Hz Gain 1.5 dB Q 1.0
+Filter: ON PK Fc 250 Hz Gain -2.5 dB Q 1.2
+Filter: ON PK Fc 800 Hz Gain 1.0 dB Q 1.0
+Filter: ON PK Fc 1500 Hz Gain 2.0 dB Q 1.0
+Filter: ON PK Fc 3000 Hz Gain 3.0 dB Q 0.8
+Filter: ON PK Fc 6000 Hz Gain -1.5 dB Q 2.0
+Filter: ON PK Fc 8000 Hz Gain 2.5 dB Q 1.2
+Filter: ON PK Fc 12000 Hz Gain 3.5 dB Q 1.0
+Filter: ON PK Fc 16000 Hz Gain -2.0 dB Q 2.5

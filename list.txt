@@ -1,0 +1,8 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBOaWNlIFZvY2FsAAAAAAAAAAAAAAAAAEMAAAAAAAAAAM3MLD8fhas+AAAAPwAAAD8="
+Filter: ON PK Fc 4000 Hz Gain 1 dB Q 0.9
+Filter: ON HSC Fc 1340 Hz Gain 2 dB Q 0.7
+Preamp: 7.8 dB
+# take more space or less
+VSTPlugin: Library wider.dll ChunkData "UO3UPgAAgL8AAIA/AAAAAA=="
+# left right panning
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDA0MjAwMDAwMzE1OTA0NjE3MzA5NiIgc3RlcmVvVHlwZT0iMCIvPgA="

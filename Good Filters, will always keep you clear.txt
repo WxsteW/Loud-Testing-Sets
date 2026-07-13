@@ -1,0 +1,7 @@
+Good Filters, will always keep you clear
+# Filter: ON HS Fc 2831.59 Hz Gain 1.8 dB
+# Filter: ON HS Fc 632.46 Hz Gain 4.6 dB
+# Filter: ON HS Fc 274.18 Hz Gain 2.8 dB
+# Filter: ON HS Fc 5272.66 Hz Gain 3.3 dB
+# Filter: ON HS Fc 1733.92 Hz Gain 2.6 dB
+# VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFqPYj9wPSo/UrjePgAAAD8="

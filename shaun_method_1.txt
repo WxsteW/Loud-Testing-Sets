@@ -1,0 +1,29 @@
+Include: PaidMonoLowering.txt
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPpDCVT8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBOaWNlIFZvY2FsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM3MLD+F6xE/cT3KPpmZOT8="
+VSTPlugin: Library DeeWider.dll ChunkData "VkMyIW0AAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TVlQTFVHSU5TRVRUSU5HUyBkYkVuYWJsZT0iMSIgZGJNYWluPSIwLjI1IiBkYkNvbG9yPSIwLjAiIGRiRHVvPSIwIi8+AA=="
+# 22
+# VSTPlugin: Library Wider.dll ChunkData "0Q3dPQ=="
+# 55
+# VSTPlugin: Library Wider.dll ChunkData "12iNPg=="
+# 150
+# VSTPlugin: Library Wider.dll ChunkData "CpxAPw=="
+# deep left
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAzNjAwMDAwNDAzODIxNDY4MzUzMyIgc3RlcmVvVHlwZT0iMCIvPgA="
+# deep right
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTU1OTk5OTc3MTQxNjE4NzI4NjQiIHN0ZXJlb1R5cGU9IjAiLz4A"
+# left
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAxNDk5OTk5MzE0NTQ2NTg1MDgzIiBzdGVyZW9UeXBlPSIwIi8+AA=="
+# right
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDE0OTk5OTkzMTQ1NDY1ODUwODMiIHN0ZXJlb1R5cGU9IjAiLz4A"
+# mid right
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDA2MDAwMDA4NDM0MDU3MjM1NzE3OCIgc3RlcmVvVHlwZT0iMCIvPgA="
+# mid left
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUUAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAwNDk5OTk5MTUwNjMzODExOTUwNjgiIHN0ZXJlb1R5cGU9IjAiLz4A"
+# right down
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDAxOTk5OTk2NjAyNTM1MjQ3ODAyNyIgc3RlcmVvVHlwZT0iMCIvPgA="
+# left down
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAyNTk5OTk5MzA4NTg2MTIwNjA1NSIgc3RlcmVvVHlwZT0iMCIvPgA="
+# 2nd left deep (kills thier wideness)
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAzNjAwMDAwNDAzODIxNDY4MzUzMyIgc3RlcmVvVHlwZT0iMCIvPgA="
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUUAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAwODAwMDAwNTAzNjU5MjQ4MzUyMDUiIHN0ZXJlb1R5cGU9IjMiLz4A"

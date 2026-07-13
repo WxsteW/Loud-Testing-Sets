@@ -1,0 +1,8 @@
+Preamp: 20 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library Wider.dll ChunkData "/ss/Pg=="
+VSTPlugin: Library "MonoChannel x64.dll" "Volume Level" 0.551282 Mute 0 Invert 0 "Low Shelf Gain" 0.663462 "Mid Peak Gain" 0.519231 "Settings Panel" 0 "VU Nominal Level" 1 "High Shelf Gain" 0.567308 "Warning LED Level" 0.85 "Peak LED Level" 0.9925 "Warning LED Hold" 0.09991 "Peak LED Hold" 0.49995 "VU Meter Mode" 0 "HP Filter" 0 "VU Peak Needle" 0 "Mini View" 0 "EQ Mode" 0
+# pan
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDA2MDAwMDA4NDM0MDU3MjM1NzE3OCIgc3RlcmVvVHlwZT0iMCIvPgA="
+# lowering freq
+# Filter: ON HS Fc 4000 Hz Gain 3 dB

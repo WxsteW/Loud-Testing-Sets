@@ -1,0 +1,9 @@
+Filter: ON PK Fc 5000 Hz Gain 2 dB Q 0.1
+Filter: ON PK Fc 9500 Hz Gain 0.75 dB Q 1.1
+Filter: ON HSC Fc 2000 Hz Gain 2 dB Q 0.35
+Filter: ON PK Fc 2000 Hz Gain 2 dB Q 10
+Filter: ON PK Fc 600 Hz Gain -2 dB Q 0.2
+Filter: ON PK Fc 650 Hz Gain 1.2 dB Q 0.8
+Filter: ON HPQ Fc 80 Hz Q 1
+VSTPlugin: Library Proximity-x64.dll Mode 1 DistGain 0.76412 RefDist 0 FineTune 0.465 Delay 0 Gain 1 Air 1 Width 0.5 Proxim. 1 Reflect. 0.5 ModShape 0 ModSpeed 0.091 ModDepth 0.009
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAITrET8+Ctc+16MQP9ej8D4="

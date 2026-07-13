@@ -1,0 +1,20 @@
+DO NOT TOUCH !!
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library Transient_x64.dll "Attack Ratio" 1 "High Threshold" 1 "Sustain Envelope" 0.815199 "Operation Mode" 0 "Sustain Ratio" 0.815 "Attack Envelope" 0.254586 "Attack Ratio x2" 1 "Sustain Ratio x2" 0 "Ratio Link" 0 Power 1 "Advanced Mode" 0 "LP Filter" 1 Monitor 1 "Solo Right" 0 "Solo Attack" 0 "Solo Sustain" 0 "Solo Left" 0 "Detection Mode" 1 "HP Filter" 0 "Low Threshold" 0 "Output Volume" 0.598198
+Preamp: 20 dB
+# Wider Counter
+# 80
+# VSTPlugin: Library Wider.dll ChunkData "CqmQPg=="
+# 120
+# VSTPlugin: Library Wider.dll ChunkData "mpkZPw=="
+uwu xd rawr pans !!!!
+右耳
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDA2MDAwMDA4NDM0MDU3MjM1NzE3OCIgc3RlcmVvVHlwZT0iMyIvPgA="
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDk5OTk5OTk3NzY0ODI1ODIwOTIzIiBzdGVyZW9UeXBlPSIwIi8+AA=="
+# VSTPlugin: Library GFM_Psypan.dll width 1 pan 0.634168 x-itd 1
+左耳
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUUAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAwNzAwMDAwNjczNTMyNDg1OTYxOTEiIHN0ZXJlb1R5cGU9IjAiLz4A"
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDE1Njk5OTk5NDA2OTMzNzg0NDg1IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+# VSTPlugin: Library GFM_Psypan.dll width 1 pan 0.34347 x-itd 1
+頭の中で
+# VSTPlugin: Library 

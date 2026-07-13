@@ -1,0 +1,6 @@
+Preamp: 40 dB
+Preamp: 15 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AEjhOj8fhSs/pHAdPwAAAD9QS1NCAAAAANejcD89Cjc/ZmbmPh+Faz8="
+VSTPlugin: Library Blundu_Stereo.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTA5OTk5OTk5NDAzOTUzNTUyMjUiIHN0ZXJlb1R5cGU9IjIiLz4A"
+VSTPlugin: Library Wider.dll ChunkData "rkdhPg=="
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAzM5NAAQAAAD9PcsE+R0MJSq8EhwA="

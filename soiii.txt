@@ -1,0 +1,34 @@
+VSTPlugin: Library WiderV2.dll ChunkData "uB6FPgAAgL8AAIA/AAAAAA=="
+# VSTPlugin: Library QuickHaas_1_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDI2MDAwMDExNzEyMzEyNjk4MzY0IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+
+# VSTPlugin: Library ReverbSolo_1.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAABcj7pAAQAAAN9FVsE+R0MJSq8EhwA="
+
+# Include: jakob pans.txt
+# Include: above head.txt
+# Include: behind method.txt
+# Include: sesper inhead.txt
+2.1
+# VSTPlugin: Library QuickHaas_1_1.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAyMTAwMDAwMTU3OTUyMzA4NjU0OCIgc3RlcmVvVHlwZT0iMCIvPgA="
+# VSTPlugin: Library QuickHaas_1_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDIyMDAwMDE4NTA3MjQyMjAyNzU5IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+left/right 4.3
+# VSTPlugin: Library QuickHaas_1_1.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDA0MzAwMDAwMTQ2MDMxMzc5Njk5NyIgc3RlcmVvVHlwZT0iMCIvPgA="
+# VSTPlugin: Library QuickHaas_1_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDQyMDAwMDAzMTU5MDQ2MTczMDk2IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+
+
+
+
+
+
+
+
+
+
+VSTPlugin: Library DeeCrystal.dll ChunkData "VkMyIaIAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TVlQTFVHSU5TRVRUSU5HUyBkYkVuYWJsZT0iMSIgZGJQYXJhbTE9IjAuNjcwMDAwMDE2Njg5MzAwNSIgZGJQYXJhbTI9IjAuMDg0MDAwMDA2MzE4MDkyMzUiIGRiUGFyYW0zPSIwLjU0NDAwMDAyOTU2MzkwMzgiLz4A"
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAUrgc/AQAAAAdRxsE+R0MJSq8EhwA="
+VSTPlugin: Library Mono_Channel.dll "Volume Level" 0.52 Mute 0 Invert 0 "Low Shelf Gain" 0.35 "Mid Peak Gain" 0.6 "Settings Panel" 0 "VU Nominal Level" 0.555556 "High Shelf Gain" 0.66 "Warning LED Level" 0.85 "Peak LED Level" 0.9925 "Warning LED Hold" 0.09991 "Peak LED Hold" 0.49995 "VU Meter Mode" 0 "HP Filter" 0.15625 "VU Peak Needle" 0 "Mini View" 0 "EQ Mode" 0
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAgD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbADF7MB8Ki9+U1VwnR3sgY3FAAAAAAAAID/NzCw/AAAAP83MzD4="
+Preamp: -20 dB
+Filter: ON HPQ Fc 20 Hz Q 0.3333
+Filter: ON HPQ Fc 20 Hz Q 0.4044
+Filter: ON HSC Fc 20.85 Hz Gain 16.7 dB Q 0.3774

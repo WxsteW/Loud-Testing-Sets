@@ -1,0 +1,17 @@
+Only turn on BL if you need extra DB
+Preamp: 20 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//Xz8AAAA/AAAAPwAAAD8="
+VSTPlugin: Library BL_LoFi.dll InGain 0.666667 Depth 1 OutGain 0.590278
+Mono - 11 | Center - 34 or 48 | Above Head - 56 or 64 | Wide - 94 (Keep on embed to change fast)
+# VSTPlugin: Library Wider.dll ChunkData "R2u0Pg=="
+Up-front
+# Include: inhead.txt
+# VSTPlugin: Library Proximity.dll Mode 1 DistGain 0.8 RefDist 0.025 FineTune 0.5 Width 0.5 Delay 0 Gain 1 Air 1 Proxim. 1 Reflect. 0.5 ModShape 0 ModSpeed 0.091 ModDepth 0.009
+In-head
+# VSTPlugin: Library Polarity_x64.dll "Polarity Mode" 0.666667
+L
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUUAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAwNTk5OTk4OTgwNzYwNTc0MzQwODIiIHN0ZXJlb1R5cGU9IjAiLz4A"
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAxNjk5OTk4OTc0ODAwMTA5ODYzMyIgc3RlcmVvVHlwZT0iMCIvPgA="
+R
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDA2MDAwMDA4NDM0MDU3MjM1NzE3OCIgc3RlcmVvVHlwZT0iMCIvPgA="
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDE1OTk5OTkxNDQ2NzMzNDc0NzMxIiBzdGVyZW9UeXBlPSIwIi8+AA=="

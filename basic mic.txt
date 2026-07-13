@@ -1,0 +1,8 @@
+VSTPlugin: Library rnnoise_stereo.dll ChunkData "VkMyIdEAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8Uk5Ob2lzZT48UEFSQU0gaWQ9InZhZF9ncmFjZV9wZXJpb2QiIHZhbHVlPSI1LjAiLz48UEFSQU0gaWQ9InZhZF9yZXRyb2FjdGl2ZV9ncmFjZV9wZXJpb2QiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InZhZF90aHJlc2hvbGQiIHZhbHVlPSIwLjA0OTk5OTk5NzAxOTc2Nzc2Ii8+PC9STk5vaXNlPgA="
+VSTPlugin: Library SweetDrums_x64.dll Process 0.630357 Input 0 Output 0.5 Bypass 1
+VSTPlugin: Library LOVEND_x64.dll Frequency 0.515217 Oversampling 0 Boost 0 Output 0.5 Bypass 1
+Preamp: 6.2 dB
+# VSTPlugin: Library ATKExpander_x64.dll Attack 1 Release 0.982558 Threshold 0.209302 Slope 1 Softness 1
+Filter: ON PK Fc 500 Hz Gain 1.8 dB Q 44.4444
+Filter: ON HP Fc 160 Hz
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAADNzAw/AQAAAMzopsE+R0MJSq8EhwA="
