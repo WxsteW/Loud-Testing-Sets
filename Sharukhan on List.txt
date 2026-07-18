@@ -1,0 +1,11 @@
+
+Preamp: 20 dB
+Filter: ON HSC Fc 100 Hz Gain 8 dB Q 0.8
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDA0OTk5OTk5ODg4MjQxMjkxMDQ2MSIgc3RlcmVvVHlwZT0iMCIvPgA="
+VSTPlugin: Library Proximity-x64.dll Mode 1 DistGain 0.916944 RefDist 0.65 FineTune 0.81 Delay 0.5 Gain 1 Air 0.5 Width 0 Proxim. 0.5 Reflect. 1 ModShape 0 ModSpeed 0.19201 ModDepth 0.14886
+VSTPlugin: Library Clipmax(x64).dll ChunkData "VkMyIY0AAAA8Um9vdD48UHJlR2Fpbj4xMC43NTwvUHJlR2Fpbj48Q2VpbGluZz4wPC9DZWlsaW5nPjxQb3N0R2Fpbj4xMC4zODwvUG9zdEdhaW4+PEF1dG9HYWluPjA8L0F1dG9HYWluPjxDdXQ+MDwvQ3V0PjxDbGlwTW9kZT4wLjU8L0NsaXBNb2RlPjwvUm9vdD4A"
+VSTPlugin: Library GGain_1.dll Gain 0.75
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAwQAAAAAAD4KVz/XoxA/fBSuPl2PIj8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBOaWNlIFZvY2FsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM3MLD9cjwI/AAAAPylcLz8="
+# VSTPlugin: Library Wider.dll ChunkData "zcxMPg=="
+Include: Sharukhans yeti eq.txt
